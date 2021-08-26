@@ -20,6 +20,7 @@ The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
 ## Instructions
 1. Clone or Download the Repo 
 2. Run narrowvine_reborn.py
+
    ```
    $ python3 narrowvine_reborn.py
    ```

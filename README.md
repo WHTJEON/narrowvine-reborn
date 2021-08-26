@@ -4,7 +4,7 @@
 ## (2021.08) Due to the New Widevine WhiteBox Exploit by Satsuoni, <br>NARROWVINE earned its second life.
 
 The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
-**Extracting decryption keys only supports all platforms (Mac, Windows, Linux)** 
+**Extracting decryption keys supports all platforms (Mac, Windows, Linux)** 
 - This script uses ChromeCDM 2209
 - I'm not responsible for any action caused by the abuse of this script.
 - **DO NOT ABUSE THIS SCRIPT!**

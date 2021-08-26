@@ -1,0 +1,4 @@
+output/
+!output/youcandeleteme.txt
+cache/
+!cache/youcandeleteme.txt

@@ -1,0 +1,7 @@
+tqdm
+requests
+protobuf
+pycryptodome
+pycryptodomex
+yt-dlp
+ffmpy

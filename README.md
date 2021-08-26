@@ -18,7 +18,7 @@ The Ultimate Widevine Content Ripper (KEY Extract + Download + Decrypt)<br>
   $ pip install -r requirements.txt
   ```
 ## Instructions
-1. Clone or Download the Repo (It is more recommended to download a compiled version from [Releases](https://github.com/WHTJEON/narrowvine/releases))
+1. Clone or Download the Repo 
 2. Run narrowvine_reborn.py
    ```
    $ python3 narrowvine_reborn.py

@@ -3,6 +3,6 @@
 
 
 ### I'm officially killing this repo. 
-Too much abuse were reported and a lot of reports told me that people were scamming and selling with my script. 
-
+Too much abuse were reported and a lot of reports told me that people were scamming and selling the script. 
+Not only my script, but there are too much people trying to scam and earn money with leaked Device Private Keys (aka CDMs), tools, and etc.
 

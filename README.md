@@ -6,6 +6,7 @@ As expected Google patched its ChromeCDM Whitebox exploit by Satsuoni with a for
 This script will no longer work until there is a new ChromeCDM exploit.
 I won't be posting any tools that use AndroidCDMs or any other type of CDM else than ChromeCDM.
 There are functioning ways that can successfully obtain keys from the Widevine keyserver at the moment, but begging for the method won't get you anything. 
++ Keep in mind that buying tools or CDMs from an unknown person in the online world is one of the most stupid things to do. 
 
 
 ### I'm officially killing this repo. 
